@@ -13,6 +13,3 @@ Skills: C++ / JAVA / JS / TS / REACT / NEXT / REDUX / NODE / EXPRESS / TAILWIND 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=VishaalVenkatesan)  
 
-
-
-![Github icon](https://github.com/VishaalVenkatesan/VishaalVenkatesan/assets/107533383/eaadcb4f-392b-43e4-9e3f-2a5fe5b82e5a)
