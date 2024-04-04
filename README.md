@@ -7,7 +7,9 @@ Skills: C++ / JAVA / JS / TS / REACT / NEXT / REDUX / NODE / EXPRESS / TAILWIND 
 - 🌱 I’m currently learning Docker 
 - 📫 How to reach me: vishaalvo3@gmail.com 
 
-[<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vishaalvenkatesan/)  [<img src='x.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/vishaalvenki)  [<img src='web.svg' alt='website' height='40'>](https://www.vishaalvenkatesan.engineer/)  
+[<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vishaalvenkatesan/) 
+[<img src='x.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/vishaalvenki) 
+[<img src='web.svg' alt='website' height='40'>](https://www.vishaalvenkatesan.engineer/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalVenkatesan)](https://github.com/anuraghazra/github-readme-stats)
 
