@@ -4,7 +4,7 @@ I am a 3rd year comp sci major who is really fascinated by technology. I continu
 Skills: C++ / JAVA / JS / TS / REACT / NEXT / REDUX / NODE / EXPRESS / TAILWIND / VERCEL / AWS / SQL / MONGO
 
 - 🔭 I’m currently working on a Podiumetrics, a formula 1 legacy website 
-- 🌱 I’m currently learning Docker 
+- 🌱 I’m currently learning Go Lang 
 - 📫 How to reach me: vishaalvo3@gmail.com 
 
 [<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vishaalvenkatesan/) 
