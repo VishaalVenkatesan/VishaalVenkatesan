@@ -10,7 +10,3 @@ Skills: C++ / JAVA / JS / TS / REACT / NEXT / REDUX / NODE / EXPRESS / TAILWIND 
 [<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vishaalvenkatesan/) 
 [<img src='web.svg' alt='website' height='40'>](https://www.vishaalvenkatesan.engineer/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalVenkatesan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=VishaalVenkatesan)  
-
