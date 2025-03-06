@@ -8,5 +8,5 @@ Skills: C++ / JAVA / JS / TS / PYTHON / REACT / ANGULAR / NEXT / REDUX / NODE / 
 - 📫 How to reach me: vishaalvo3@gmail.com 
 
 [<img src='link.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vishaalvenkatesan/) 
-[<img src='web.svg' alt='website' height='40'>](https://vishaal-venkatesan-portfolio.vercel.app/))  
+[<img src='web.svg' alt='website' height='40'>](https://vishaal-venkatesan-portfolio.vercel.app/)
 
